@@ -15,6 +15,8 @@ sections:
           - Post Doctors
           - PhD Students
           - Research Assistants
+          - Research Interns
+          - Undergraduates
           - Alumni
       sort_by: Params.start_year
       sort_ascending: true
